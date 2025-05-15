@@ -1,4 +1,4 @@
-# 🎬 YouTube InVideo ChatBot Chrome Extension
+# 🎬 InVideo ChatBot YouTube Chrome Extension
 
 A powerful Chrome extension that allows users to **ask questions about any YouTube video** and get instant, intelligent answers — even without watching the video. This project combines the power of **LangChain**, **Gemini 1.5 Flash**, **FAISS**, and **YouTubeTranscriptAPI** to create a fully functional Retrieval-Augmented Generation (RAG)-based chatbot that works directly from the browser.
 
@@ -197,5 +197,5 @@ Pull requests and feedback are welcome! If you encounter bugs or have ideas, ple
 
 ## 🔖 Tags
 
-\#LangChain #Gemini #RAG #FAISS #ChromeExtension #YouTube #LLM #AIProject #SmartChatbot #Python #GoogleGenAI
+\#LangChain #Gemini #RAG #FAISS #ChromeExtension #YouTube #LLM #AIProject #SmartChatbot #Python #Flask #GoogleGenAI
 
