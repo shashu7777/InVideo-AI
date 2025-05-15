@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "InVideo AI",
+    "version": "1.0",
+    "description": "Chat with AI about the YouTube video you're watching",
+    "permissions": ["activeTab", "scripting","tabs"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icons/icon1.png"
+    },
+    "host_permissions":["http://127.0.0.1:5000/"]
+
+  }
+  

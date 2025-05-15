@@ -1,0 +1,12 @@
+youtube-transcript-api
+langchain-community
+langchain-google-genai
+google-generativeai
+faiss-cpu
+tiktoken
+python-dotenv
+flask
+flask-cors
+googletrans==3.1.0a0
+langdetect
+legacy-cgi
