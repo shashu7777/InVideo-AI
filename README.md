@@ -39,8 +39,8 @@ InVideo-AI/
 ### 🧪 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/youtube-chatbot-extension.git
-cd youtube-chatbot-extension
+git clone https://github.com/shashu777/InVideo-AI.git
+cd InVideo-AI
 ````
 
 ---
