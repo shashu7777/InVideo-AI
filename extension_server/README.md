@@ -1,4 +1,3 @@
-```markdown
 # 🎬 YouTube InVideo ChatBot Chrome Extension
 
 A powerful Chrome extension that allows users to **ask questions about any YouTube video** and get instant, intelligent answers — even without watching the video. This project combines the power of **LangChain**, **Gemini 1.5 Flash**, **FAISS**, and **YouTubeTranscriptAPI** to create a fully functional Retrieval-Augmented Generation (RAG)-based chatbot that works directly from the browser.
@@ -18,7 +17,7 @@ A powerful Chrome extension that allows users to **ask questions about any YouTu
 
 ## 📁 Project Structure
 
-```
+```bash
 
 youtube-chatbot-extension/
 │
@@ -32,9 +31,7 @@ youtube-chatbot-extension/
 │   ├── popup.html
 │   ├── popup.js
 │   └── ...                      # Additional static assets (CSS, icons, etc.)
-
-````
-
+```
 ---
 
 ## 🧑‍💻 Setup Instructions
