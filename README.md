@@ -151,6 +151,14 @@ You're now ready to use the extension!
 
 ---
 
+## 🖼️ Sample Screenshot
+
+Here is a preview of the extension in action:
+
+![YouTube InVideo Chatbot Screenshot](./assets/screenshot.png)
+
+---
+
 ## 📝 Sample Interaction
 
 > **Video ID:** `abc123xyz`
