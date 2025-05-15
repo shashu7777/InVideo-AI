@@ -155,7 +155,7 @@ You're now ready to use the extension!
 
 Here is a preview of the extension in action:
 
-![YouTube InVideo Chatbot Screenshot](./assets/screenshot.png)
+![YouTube InVideo Chatbot Screenshot](./assets/Screenshot.png)
 
 ---
 
