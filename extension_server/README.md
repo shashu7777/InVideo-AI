@@ -195,10 +195,7 @@ Pull requests and feedback are welcome! If you encounter bugs or have ideas, ple
 
 ---
 
----
-
 ## 🔖 Tags
 
 \#LangChain #Gemini #RAG #FAISS #ChromeExtension #YouTube #LLM #AIProject #SmartChatbot #Python #GoogleGenAI
 
-```
