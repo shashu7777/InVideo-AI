@@ -19,9 +19,9 @@ A powerful Chrome extension that allows users to **ask questions about any YouTu
 
 ```bash
 
-youtube-chatbot-extension/
+InVideo-AI/
 │
-├── extension\_server/            # Backend Flask server
+├── extension_server/            # Backend Flask server
 │   ├── server.py                # Main backend logic
 │   ├── requirements.txt         # Python dependencies
 │   └── .env                     # Environment variables (add manually)
